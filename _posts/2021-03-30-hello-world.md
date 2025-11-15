@@ -3,7 +3,7 @@ title: 你好，世界！
 date: 2025-03-13 10:34:00 +0800
 categories: [随笔]
 tags: [生活]
-pin: true
+pin: false
 author: 湾区书记汤姆
 
 toc: true
