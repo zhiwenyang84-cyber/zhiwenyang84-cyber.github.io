@@ -12,7 +12,7 @@ typora-root-url: ../../tomstillcoding.github.io
 math: false
 mermaid: true
 
-  alt: 签约成功
+alt: 签约成功
 
 ---
 
